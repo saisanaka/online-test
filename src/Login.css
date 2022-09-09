@@ -1,0 +1,79 @@
+.login__home {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+}
+
+.create__account__button{
+    margin-top: 0.3125rem;
+    width: 18.75rem;
+    padding: 0.625rem;
+    background-color: light-gray;
+    color: black;
+    border: 1px solid;
+    font-weight: 400;
+    font-size: medium;
+    border-radius: 0.3125rem;
+}
+.login__body {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid gray;
+    padding: 0.625rem;
+    width: 18.75rem;  
+    margin: 0.3125rem; 
+}
+.password__checklist{
+    display: none;
+}
+
+.checkbox{
+    margin-right: 0.625rem;
+}
+
+.login__body > form > p {
+    padding-top: 0.625rem;
+}
+
+.login__body__input {
+    margin-top: 0.3125rem;
+    margin-bottom: 0.3125rem;
+    height: 1.875rem;
+    width: 18.25rem;
+}
+
+.date__sal{
+    width:60%;
+    height:35px;
+    font-size: 17px;
+    outline:none;
+    margin-top:10px;
+    margin-left: 24px;
+
+}
+
+.login__body__button {
+    margin-top: 0.3125rem;
+    width: 18.75rem;
+    padding: 0.625rem;
+    font-weight: 400;
+    font-size: medium;
+    background-color: hsl(43, 82%, 62%);
+    color: black;
+    border: 1px solid;
+    border-radius: 0.3125rem;
+}
+
+span{
+    cursor: pointer;
+    color: blue;
+}
+.login__home__img {
+    object-fit: contain;
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+    width: 6.25rem;   
+}

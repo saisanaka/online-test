@@ -1,0 +1,26 @@
+.homePage{
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+    background-color: aquamarine;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.a:hover{
+    cursor: pointer;
+}
+
+.b:hover{
+    cursor: pointer;
+}
+
+.d:hover{
+    cursor: pointer;  
+}
+
+.c:hover{
+    cursor: pointer;
+}

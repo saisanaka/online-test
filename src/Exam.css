@@ -1,0 +1,15 @@
+.exam__class{
+    padding: 10px;
+    margin: 10px;
+}
+
+.options__class{
+    padding: 10px;
+   
+}
+.question{
+    margin-top: 10px;
+}
+input[type=radio]{
+    margin-top: 5px;
+}
